@@ -1,0 +1,12 @@
+.container{
+    color:orangered;
+    background-color: black;
+    margin: auto;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0 6px 30px rgba(0.1,0,0,0.1);
+}
+.header{
+    color:burlywood;
+    background-color: brown;
+}

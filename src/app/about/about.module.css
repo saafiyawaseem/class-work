@@ -1,0 +1,14 @@
+.container{
+    color:black;
+    background-color:palegreen;
+    margin: auto;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0 6px 30px rgba(0.1,0,0,0.1);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    color: aliceblue;
+    background-color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
